@@ -13,7 +13,7 @@ setup(name='tap-hubspot',
           'attrs==16.3.0',
           'singer-python==5.12.1',
           'requests==2.23.0',
-          'backoff==1.3.2',
+          'backoff==1.8.0',
           'requests_mock==1.3.0',
       ],
       extras_require= {
